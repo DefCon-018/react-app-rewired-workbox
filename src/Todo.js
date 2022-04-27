@@ -44,7 +44,7 @@ class Todo extends React.Component {
     console.log("todos", typeof todos);
     return (
       <React.Fragment>
-        <h1>Google workbox</h1>
+        <h1>Google workbox test</h1>
         {/* <ul>
           {todos.map((todo, index) => (
             <li key={`${todo.id}_${index}`}>{todo.title}</li>
